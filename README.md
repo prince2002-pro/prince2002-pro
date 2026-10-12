@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Prince Muhindo Visanguliryo, Data Scientist and Analyst" width="100%">
+  <img src="banner.svg" alt="Prince Muhindo Visanguliryo, Data Scientist and Analyst" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://prince2002-pro.github.io/data-analytics-portfolio/"><img src="https://img.shields.io/badge/Live_Dashboard-Explore-C2790A?style=for-the-badge&logo=plotly&logoColor=white" alt="Live dashboard"></a>
 </p>
 
-<p align="center"><img src="assets/stats.svg" alt="Impact: 70% less reporting time, 6+ hours saved weekly, 20,000+ rows cleaned, 3 languages" width="100%"></p>
+<p align="center"><img src="stats.svg" alt="Impact: 70% less reporting time, 6+ hours saved weekly, 20,000+ rows cleaned, 3 languages" width="100%"></p>
 
 ## 👋 About me
 
@@ -30,7 +30,7 @@ I am a **Data Science and Analytics graduate (BSc, USIU-Africa)** with hands-on 
 **[Open the live Sales Performance Dashboard](https://prince2002-pro.github.io/data-analytics-portfolio/)**, then filter by region, category and year. Every KPI and chart updates.
 
 <p align="center">
-  <a href="https://prince2002-pro.github.io/data-analytics-portfolio/"><img src="assets/dashboard-preview.png" alt="Sales Performance Dashboard preview" width="92%"></a>
+  <a href="https://prince2002-pro.github.io/data-analytics-portfolio/"><img src="dashboard-preview.png" alt="Sales Performance Dashboard preview" width="92%"></a>
 </p>
 
 | Feature | What you can do |
@@ -50,25 +50,25 @@ I am a **Data Science and Analytics graduate (BSc, USIU-Africa)** with hands-on 
 
 ### KPI overview
 
-<p align="center"><img src="assets/kpi-dashboard.png" alt="KPI overview: revenue, profit, margin, growth, top region, peak month" width="90%"></p>
+<p align="center"><img src="kpi-dashboard.png" alt="KPI overview: revenue, profit, margin, growth, top region, peak month" width="90%"></p>
 
 Over 24 months the business earned **KES 11.0M** in revenue and **KES 2.0M** in profit, an **18.3%** margin. Revenue grew **12.9%** in 2025, and Nairobi contributed **39%** of the total.
 
 ### Revenue and profit trend
 
-<p align="center"><img src="assets/revenue-profit-trend.png" alt="Monthly revenue and profit trend" width="90%"></p>
+<p align="center"><img src="revenue-profit-trend.png" alt="Monthly revenue and profit trend" width="90%"></p>
 
 Revenue is steady through most of the year and jumps every November and December. December 2025 was the peak month at KES 636K, which tells a business to plan stock and staffing ahead of Q4.
 
 ### Regional performance
 
-<p align="center"><img src="assets/regional-performance.png" alt="Revenue by region, 2024 versus 2025" width="90%"></p>
+<p align="center"><img src="regional-performance.png" alt="Revenue by region, 2024 versus 2025" width="90%"></p>
 
 All four regions grew in 2025. Nakuru (+16%) and Mombasa (+15%) grew fastest, while Kisumu (+7%) lagged and is the one to investigate.
 
 ### Product category performance
 
-<p align="center"><img src="assets/product-performance.png" alt="Revenue share and margin by product category" width="90%"></p>
+<p align="center"><img src="product-performance.png" alt="Revenue share and margin by product category" width="90%"></p>
 
 Phones bring in **52%** of revenue at a **14%** margin, while accessories are only **14%** of revenue but earn a **35%** margin. Pushing accessory attach rates is the clearest route to more profit.
 
@@ -76,13 +76,13 @@ Phones bring in **52%** of revenue at a **14%** margin, while accessories are on
 
 ## 🔄 How I work
 
-<p align="center"><img src="assets/data-analytics-workflow.png" alt="Workflow: collect, clean, validate, store, analyse, visualise, decide" width="100%"></p>
+<p align="center"><img src="data-analytics-workflow.png" alt="Workflow: collect, clean, validate, store, analyse, visualise, decide" width="100%"></p>
 
 ---
 
 ## 🛠️ Toolkit
 
-<p align="center"><img src="assets/toolkit.svg" alt="Toolkit: languages, BI tools, databases, data collection and Python stack" width="100%"></p>
+<p align="center"><img src="toolkit.svg" alt="Toolkit: languages, BI tools, databases, data collection and Python stack" width="100%"></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,powerbi,excel,js,git&theme=light" alt="Core tools">
@@ -103,7 +103,7 @@ Phones bring in **52%** of revenue at a **14%** margin, while accessories are on
 
 ## 💼 Experience
 
-<p align="center"><img src="assets/timeline.png" alt="Education and experience timeline" width="92%"></p>
+<p align="center"><img src="timeline.png" alt="Education and experience timeline" width="92%"></p>
 
 <details open>
 <summary><b>Data Analyst Intern</b>, Zestra Capital Limited, Nairobi (Feb 2026 – Aug 2026)</summary>
@@ -147,7 +147,7 @@ Phones bring in **52%** of revenue at a **14%** margin, while accessories are on
 <details>
 <summary><b>🔐 Fraud detection demo</b> (synthetic data)</summary>
 <br/>
-<p align="center"><img src="assets/fraud-demo.png" alt="Isolation Forest flags anomalous card transactions" width="85%"></p>
+<p align="center"><img src="fraud-demo.png" alt="Isolation Forest flags anomalous card transactions" width="85%"></p>
 
 An Isolation Forest trained on synthetic card transactions flags points that sit far from normal spending behaviour. This demo illustrates the approach and is not the original project data.
 </details>
